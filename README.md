@@ -1,5 +1,3 @@
-![banner](./readme/banner.png)
-
 # Neuralang: A Compiled Interoperable Scripting Language Built for Machine Learning
 ![demo1](./readme/demo1.png)
 
